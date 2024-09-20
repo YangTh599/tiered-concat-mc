@@ -38,6 +38,7 @@
 
 - Define a variable that stores the price of an item at Burger King
 - Assign the item price **as a number** to your variable
-  - Example: At Burger King, a Whopper with cheese costs $5.99.
+  
 - Use **concatenation** to build and display a string that contains (a) the item name and (b) the item price
+    - Example: At Burger King, a Whopper with cheese costs $5.99.
 - Remember to include the dollar sign ($) in your output string
