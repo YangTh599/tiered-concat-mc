@@ -7,9 +7,9 @@
 - Add a comment block to the top of your Python file (name, date, *Concatenation Check* as the project title)  
 
 
-### Submitting Your Work
+### Finished?
 
-- Upload your `concat_mc.py` file as an attachment on Google Classroom
+- Show your teacher your `concat_mc.py` script today during Teacher Time
 
 
 ### Your Tasks
